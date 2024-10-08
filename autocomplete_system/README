@@ -1,0 +1,7 @@
+This project implements an autocomplete system using an AVL tree. The tree stores words in alphabetical order.
+
+Features
+- Insert words into the AVL tree.
+- Search for words in the AVL tree.
+- Autocomplete words based on a prefix.
+
